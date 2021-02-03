@@ -17,3 +17,8 @@ void Widget::on_Button_FileSelect_released()
 {
 
 }
+
+void Widget::on_pushButton_released()
+{
+
+}

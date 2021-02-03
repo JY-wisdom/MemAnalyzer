@@ -18,6 +18,8 @@ public:
 private slots:
     void on_Button_FileSelect_released();
 
+    void on_pushButton_released();
+
 private:
     Ui::Widget *ui;
 };
